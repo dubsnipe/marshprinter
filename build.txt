@@ -1,24 +1,20 @@
-Construyendo mi proyecto
+Building my project
 ========================
 
-Coloca en este archivo instrucciones detalladas sobre la construcción del hardware
-que has desarrollado. Es recomendable que coloques las instrucciones detalladas
-por pasos como se ejemplifica a continuación
+You can put in this file detailed instructions for the construction of the hardware that you have developed. We recommend you to break those instructions into steps such as the following example:
 
-Paso 1 - Desempaquetando
+Step 1 - Unpacking
 ========================
 
-Saca los componentes de las bolsas y colócalos en la mesa, cuéntalos en base
-al archivo bom.txt  y revisa que todo se encuentre en orden.
+Take all the components out of the bags and put them on the table. Check the file 'bom.txt' in order to make sure your list is complete and everything is in order.
 
-Paso 2 - Conectando
+Step 2 - Connecting
 ===================
 
-Conecta a la breadboard una resistencia y un LED de 330Ohm en serie.
-Luego conecta la línea 13 del Arduino UNO a la resistencia.
+Connect a resistor and a 330 Ohm LED in serie to the breadboard.
+Then connect the pin 13 of the Arduino UNO to the resistor.
 
-Paso 3 - Construyendo el código
+Step 3 - Building the Code
 ===============================
 
-Conecta tu arduino a la PC y abre el Sketch en la carpeta src/Test/Test.ino
-y súbelo a tu Arduino.
+Connect your Arduino to the PC and open Sketch which is on the folder src/Test/Test.ino. Upload the file to your Arduino.
