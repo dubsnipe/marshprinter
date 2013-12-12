@@ -3,7 +3,7 @@ Open Hardware Project Layout
 
 This repository will serve as a base layout to facilitate the documentation of Open Hardware projects.
 
-The proposed structureof folders within this layout is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
+The proposed structure of folders within this layout is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
 http://www.oshwa.org/sharing-best-practices/
 
 You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding any information or extra files that you consider useful.
@@ -22,7 +22,7 @@ Explain how you expect your project to work. It is not necessary, however, that 
 
 To make your documentation more useful, indicate the level of development of your project. Some indicators could be: "stable", "beta", "incomplete" or "barely working".
 
-You can also add to this section the corresponding credits in case your project a derivative work from another project. You can also add the names or pseudonyms of the people who contributed to your project, the type of copyright/patent license and last date of modification.
+You can also add to this section the corresponding credits in case your project is a derivative work from another project. You can also add the names or pseudonyms of the people who contributed to your project, the type of copyright/patent license and last date of modification.
 
 
 Latest Additions
@@ -67,17 +67,17 @@ Construction and Use
 
 If the construction procedure is simple, you can write it down in this section. However, if you think it will need more details, you can create a file named 'build.txt' where you can elaborate on the construction procedure details.
 
-Likewise, if the procedure for utilizing the associated software to the project is simple you can write down the details in this section. If said instructions are too long, you can create a file named 'usage.txt' and reference it from this section..
+Likewise, if the procedure for utilizing the associated software to the project is simple you can write down the details in this section. If said instructions are too long, you can create a file named 'usage.txt' and reference it from this section.
 
 
 Folders
 ========
 
-The folder structure is very important for your project. because it will allow you to organize your projects and will also allow others to easily share changes or improvements. This structure isn't set in stone, however, so you can modify it so it suits your needs.
+The folder structure is very important for your project, because it will allow you to organize your projects and will also allow others to easily share changes or improvements. This structure isn't set in stone, however, so you can modify it so it suits your needs.
 
 Remember that inside every folder we strongly recommend you to include a file named 'readme.txt' where you can detail its contents.
 
-Within the folder structure we recommend to include at least the following foldres:
+Within the folder structure we recommend to include at least the following folders:
 
 * *doc*: Use this folder to enter all the documentation that you consider as necessary for your project. We recommend that you use free/open formats such as .odf or .txt files. If you wish to create it as a web page, name your main page as 'index.html' so it can be easily accessed in case someone copies the contents of the folders into a web server.
 * *src*: Place into this folder all the control software's source code for your Open Hardware project. If you use an IDE such as Eclipse or Arduino, copy your project's folder inside the src folder.
