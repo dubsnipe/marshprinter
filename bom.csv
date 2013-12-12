@@ -1,6 +1,6 @@
 "Provider No.","Name","Description","Provider","Quantity","Measurement Unit","Unit Price","Total"
 "PRT-0001","LED","Light Emitting Diode for superficial assembly","ElectronicsPro+++",1,"Piece",$0.15,$0.15
 "DFR.2234","330Ohm Resistor","330Ohm ½ Watt Carbon Resistor","Mecha2013",1,"Piece",$0.25,$0.25
-"CON3322453","Pins","Soldering pins, two lines","WaveMatic3054",1,"Piece",$0.10,$0.10
+"CON3322453","Pins","Breakout pins, two lines","WaveMatic3054",1,"Piece",$0.10,$0.10
 "BRD00343234","Copper tablet","Copper tablet for electronic circuits","ChemPro2213",1,"Piece",$2.50,$2.50
 "N/D","Loose cable","Loose cable for connections","--recycled--",50,"cm",$0.00,$0.00
