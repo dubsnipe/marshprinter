@@ -1,45 +1,31 @@
-Plantilla para proyectos Open Hardware
+Open Hardware Project Layout
 =======================================================
 
-Este repositorio tiene el objetivo de servir de plantilla
-para facilitar la documentación de proyectos Open-Hardware.
+This repository will serve as a layout to facilitate the documentation of Open Hardware projects.
 
-Las carpetas propuestas en esta estructura están basados
-en las recomendaciones de buenas prácticas de la OSHWA
-traducidas al español que se encuentran disponibles en
-http://www.openhardware.sv/acerca-de/buenas-practicas-para-el-hardware-de-fuente-abierta/
+The proposed folders within this structore are based on the Best Practices for Open-Source Hardware documment by the Open Source Hardware Association.
+http://www.oshwa.org/sharing-best-practices/
 
-Puedes modificar este documento como mejor se ajuste a tus
-necesidades sobreescribiendo los textos en cada párrafo y
-agregando la información y archivos que consideres conveniente.
+You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding information or files that you think useful. 
 
-Inicia borrando esta sección incluyendo esta línea.
+You can start by deleting this section --including this line of text.
 
 
-Nombre de tu proyecto
+Name of Your Project
 =====================
 
-Escribe aquí una descripción breve de dos o tres párrafos
-en donde expliques: ¿Qué es tu proyecto? ¿Para qué sirve? y ¿Cómo
-hacerlo funcionar?
+Put here a short description (two or three paragraphs long) on which you define: What is your project? What is it good for? How do you make it work?
 
-Procura no utilizar técnicismos o lenguaje complicado, recuerda
-que las personas que leerán esta descripción puede que no tengan
-tu mismo nivel de conocimiento o tu misma área de experiencia.
+Try not to use technical jargon or complicated words. Remember that people who will read your description might not have the same level of expertise or be knowledgeable on the same field of knowledge as you.
 
-Explica brévemente el funcionamiento esperado de tu proyecto, no es
-necesario que escribas todo en detalle, si el funcionamiento requiere
-una explicación más detallada puedes hacer referencia a un sitio web
-o a otro archivo de texto dentro de la carpeta "docs".
+Explain how you expect your project will function. It's not necessary that you write every little detail of its functioning. If you need to present a more detailed explanation of your project, we recommend you post a link to a website or another .txt file inside of the 'docs' folder.
 
-Es muy útil que indiques el nivel de desarrollo de este proyecto sea
-"estable", "beta", "incompleto" o "a-penas-funciona".
+To make your documentation more useful, indicate the level of development of your project. Some indicators could be: "stable", "beta", "incomplete" or "barely working".
 
-También puedes agregar en esta sección los créditos correspondientes
-si tu proyecto se deriva de otro, nombres o pseudónimos de las
-personas que colaboraron, licencia y fecha de última actualización.
+You can also add to this section the corresponding credits in case your project is derived from another project, names or pseudonyms of the people who contributed to your project, the type of license and last date of modification.
 
-Últimas adiciones
+
+Latest Additions
 =================
 
 Coloca en esta sección los últimos cambios relevantes o correcciones
