@@ -1,22 +1,22 @@
 Open Hardware Project Layout
 =======================================================
 
-This repository will serve as a layout to facilitate the documentation of Open Hardware projects.
+This repository will serve as a base layout to facilitate the documentation of Open Hardware projects.
 
-The proposed folders within this structore are based on the Best Practices for Open-Source Hardware documment by the Open Source Hardware Association.
+The proposed structure folders within this layout are based on the Best Practices for Open-Source Hardware documment, published by the Open Source Hardware Association.
 http://www.oshwa.org/sharing-best-practices/
 
-You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding information or files that you think useful. 
+You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding information or files that you consider useful.
 
-You can start by deleting this section --including this line of text.
+You can start by deleting this section, including this line of text.
 
 
 Name of Your Project
 =====================
 
-Put here a short description (two or three paragraphs long) on which you define: What is your project? What is it good for? How do you make it work?
+Write here a short description (two or three paragraphs long) on which you define: What is your project? What is it good for? How do you make it work?
 
-Try not to use technical jargon or complicated words. Remember that people who will read your description might not have the same level of expertise or be knowledgeable on the same field of knowledge as you.
+Try not to use technical jargon or complicated words. Remember that people who will read your description might not have the same level of expertise, or they might not be on the same field of knowledge as you.
 
 Explain how you expect your project will function. It's not necessary that you write every little detail of its functioning. If you need to present a more detailed explanation of your project, we recommend you post a link to a website or another .txt file inside of the 'docs' folder.
 
@@ -28,124 +28,75 @@ You can also add to this section the corresponding credits in case your project 
 Latest Additions
 =================
 
-Coloca en esta sección los últimos cambios relevantes o correcciones
-que hayas realizado a tu proyecto. Es importante que notifiques sobre
-cambios que modifiquen el comportamiento de tu proyecto o las salidas
-que este genera.
+Add to this section the last relevant changes or corrections that you have made to your project. It is important that you notify about changes that modify the behavior of your project or the outputs that it generates.
 
-Ejemplo de cambios en la última versión 0.1alpha:
+Here's an example of changes to the latest version 0.1alpha:
 
-* Agregados textos de ejemplo
-* Agregado números de versión
+* Text examples added
+* Version numbers added
 
-Correcciones:
+Corrections:
 
-* Corregidos errores de ortografía
+* Typos corrected
 
-No es necesario que coloques todo el historial de cambios, en vez de eso
-puedes crear un archivo en esta carpeta llamado "changelog.txt" con el histórico
-completo (preferiblemente en orden cronológico inverso):
+You don't need to write down the whole historial of changes. Instead, you can make a new file in this folder named 'changelog.txt' with the complete history of changes (preferably on inverse chronological order):
 
-> Puede revisar el historial de cambios completo en el archivo changelog.txt
+> You can check the complete log change history in the file changelog.txt
 
-Costo/Lista de Materiales
+Cost/BOM
 =========================
 
-Si la lista de materiales de este proyecto es corta puedes incluírla aquí, en
-caso contrario puedes crear un archivo llamado "bom.csv" o un archivo de hoja de
-cálculo donde puedes detallar la lista de materiales y costos. Procura utilizar
-formatos abiertos en la medida de lo posible, por ejemplo eligiendo ODS sobre
-Excel.
+If the bill of materials for this project is short you can add it right here. Otherwise, you can create a file named 'bom.csv' or any spreadsheet file where you can detail the bill of materials and costs. Try to use open formats as much as possible (share an .ods formatted file instead of an Excel .xls file).
 
-Pre-requisitos/Requerimientos
+Requirements
 =============================
 
-Dedica esta sección a explicar en detalle ¿Qué se requiere para hacer funcionar
-tu proyecto?. Debes colocar los requerimientos o pre-requisitos del software
-para hacerlo funcionar y herramientas para construirlo.
+Use this section to detail what is required in order to make your project work. You need to put the requirements or previous needs for software in order to make it work, or the tools that are needed to build it.
 
-Para el hardware puedes especificar herramientas o maquinaria específica que se
-necesite para construir el proyecto.
+Here's an example.
 
-Ejemplo:
+Software requirements:
+* Arduino IDE
 
-Requerimientos de software:
-
-* IDE Arduino.
-
-Herramientas requeridas:
-
-* Pinza cortadora de cable.
+Required tools:
+* Cable cutter
 
 
-Construcción y uso
+Construction and Use
 ==================
 
-Si el procedimiento de construcción es sencillo, puedes detallarlo en esta
-sección, en caso contrario puedes crear un archivo "build.txt" donde detalles el
-procedimiento a seguir.
+If the construction procedure is simple, you can write it down in this section. However, if you think it will need more details, you can create a file named 'build.txt' where you can elaborate on the construction procedure details.
 
-De igual manera si el procedimiento de utilización del software asociado a tu
-proyecto es sencillo puedes explicarlo aquí. En caso de que las instrucciones
-sean muy extensas, puedes crear un archivo "usage.txt" y hacer referencia
-al mismo en esta sección.
+Likewise, if the procedure for utilizing the associated software to the project is simple you can write down the details in this section. If said instructions are too long, you can create a file named 'usage.txt' and reference it from this section..
 
-Carpetas
+
+Folders
 ========
-La estructura de carpetas es muy importante en un proyecto, te permitirá tener
-tus proyectos organizados y permitirá a otros compartir fácilmente cambios o 
-mejoras. Esta estructura no está escrita en piedra y puedes modificarla según
-se adopte mejor a tus necesidades.
 
-Recuerda que dentro de cada carpeta es muy recomendable que incluyas un archivo
-llamado "readme.txt" donde detalles los contenidos de la misma.
+The folder structure is very important for your project. because it will allow you to organize your projects and will also allow others to easily share changes or improvements. This structure isn't set in stone, however, so you can modify it so it suits your needs.
 
-En la estruuctura de directorios se recomienda incluir por al menos las
-siguientes carpetas:
+Remember that inside every folder we strongly recommend you to include a file named 'readme.txt' where you can detail its contents.
 
-* *doc*: Utiliza esta carpeta para ingresar toda la documentación que consideres
-necesaria para tu proyecto. De preferencia utiliza formatos libres como "ODF"
-o simples archivos de texto, si puedes crear una página web en HTML recuerda
-renombrar el archivo principal como "index.html" para que pueda ser accedido
-fácilmente en caso de que alguien copie esta carpeta en un servidor web.
-* *src*: Coloca en esta carpeta todos los archivos de código fuente del software
-de control de tu proyecto Open Hardware. Si utilizas un IDE como Eclipse o Arduino
-copia dentro de src la carpeta del proyecto.
-* *dsn* / *diseño*: En esta carpeta coloca todos los archivos para el diseño de tu
-proyecto.
-  +  *main*: Coloca en esta carpeta los archivos de diseño original que pueden
-incluir, pero no limitarse a: Dibujos 2D, diseños 3D, archivos CAD, bibliotecas
-de componentes, dibujos técnicos adicionales.
-  +  *aux*: Coloca en esta carpeta los archivos de diseño auxiliares que ayuden
-a construir tu proyecto. Los archivos de diseño secundario pueden incluír diseños
-2D o 3D en formato de intercambio, dibujos técnicos adicionales, formatos listos
-para manufactura, artes gráficos adicionales.
-* *extra*: Esta carpeta es libre, aquí puedes colocar otros archivos que se
-puedan requerir para hacer funcionar o construir tu proyecto. Un ejemplo de ello
-puede ser un driver controlador de un dispositivo específico o vínculos a software
-relevante, fotografías o videos.
+Within the folder structure we recommend to include at least the following foldres:
 
-Excepción de responsabilidades
+* *doc*: Use this folder to enter all the documentation that you consider as necessary for your project. We recommend that you use free/open formats such as .odf or .txt files. If you wish to create it as a web page, name your main page as 'index.html' so it can be easily accessed in case someone copies the contents of the folders into a web server.
+* *src*: Place into this folder all the control software's source code for your Open Hardware project. If you use an IDE such as Eclipse or Arduino, copy your project's folder inside the src folder.
+* *dsn* / *design*: Put all files relevant to the design inside of this folder.
+  +  *main*: Inside of this folder you can put the original design files that may include, but are not limited to: 2D drawings, 3D designs, CAD files, component libraries and additional blueprints or technical drawings.
+  +  *aux*: Put in here all the auxiliary design files that may help to build your project. Design auxiliary files may include 2D or 3D designs saved on data interchange formats, additional technical drawings, manufacture-ready formats, or additional graphic drawings.
+* *extra*: This is a folder for the remaining files. Here you can leave other files that may be required to manufacture your project or to make it work. You can add here, for example, a controller driver for a specific device, or links for relevant software, photos or videos.
+
+Acknowledgment of Responsibility/Liability Waiver
 ==============================
 
-Es recomendable que incluyas un texto como el siguiente en tus proyectos:
+We recommend you to add a text similar to this in your projects:
 
-> El presente proyecto se comparte "tal cual" con el único objetivo de que sea útil.
-El/los creadores del presente hardware y su software asociado no pueden garantizar su
-correcto funcionamiento bajo ninguna circunstancia. El/Los autor/es de este proyecto
-no podrá/n hacerse responsable/s de cualquier pérdida de carácter material, personal o
-económico a su persona o terceros derivados de la utilización del mismo. Este proyecto
-no deberá ser utilizado bajo ninguna circustancia en sistemas de carácter crítico
-o sistemas de los cuales dependan vidas de personas de manera directa o indirecta.
+> The following project is shared "as is", with the sole objective of being useful. The creator(s) of the described piece of hardware and its associated software cannot guarantee its correct functioning under any circumbstances. The author(s) of this project will not be held responsible for any material, personal or economic loses to you or any third parties that may arise from using this design. This project will not be used under any circumstances on systems whose responsibility is critical, or from which people's lives depend on, directly or indirectly.
 
 
-Licenciamiento
+Licensing
 ==============
 
-Agrega aquí la licencia que utilizas en el código fuente de tu proyecto, adicionalmente
-agradeceríamos si colocas la nota de atribución de la plantilla al final.
+Add here the license that your project's source code has been subjected to. We would also love it if you add the attribution note for the following layout at the end of this file.
 
-> La plantilla de este README.md ha sido desarrollada por la comunidad openhardware.sv
-con el objetivo de facilitar la documentación de proyectos. Esta plantilla está protegida
-bajo la licencia CC BY, puedes modificarla y redistribuirla manteniendo esta nota de
-atribución del autor.
+> This README.md layout has been developed by the openhardware.sv community in order to make project documentation easier. This layout has been protected under a CC BY license. You can modify it and redistribute it as long as you keep this author attribution note.
