@@ -43,7 +43,7 @@ You don't need to write down the whole history of changes. Instead, you can make
 
 > You can check the complete log change history in the file 'changelog.txt'.
 
-Cost/BOM
+BOM/Cost Estimate
 =========================
 
 If the bill of materials for this project is very short you can put it right here. Otherwise, you can create a file named 'bom.csv' or any spreadsheet file where you can detail the bill of materials and costs. Try to use open formats as much as possible (share an .ods formatted file instead of an Excel .xls file, for example).
