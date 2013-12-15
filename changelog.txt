@@ -1,31 +1,31 @@
 Version 0.0001alpha
 ===================
-Publicada: 12/12/2012
+Published: 12/12/2012
 
-Cambios:
+Changes:
 
-* Cambio 1
-* Cambio 2
+* Change 1
+* Change 2
 
-Correcciones:
+Corrections:
 
-* Corrección 1
-* Corrección 2
+* Correction 1
+* Correction 2
 
-Version 0.00001-camote
+Version 0.00001-sweetpotato
 ======================
-Publicada: 05/08/2012
+Published: 05/08/2012
 
-Cambios:
+Changes:
 
-* Agregado soporte para X
-* Agregados archivos de diseño de Z
+* Support for X added
+* Design files for Z added
 
 
 Versión 0.0000001-sweetcorn
 ===========================
-Publicada: 03/07/12
+Published: 03/07/12
 
-Cambios:
+Changes:
 
-* Release inicial
+* Initial release
