@@ -1,9 +1,9 @@
-Open Hardware Project Layout
+Open Hardware Project Template
 =======================================================
 
-This repository will serve as a base layout to facilitate the documentation of Open Hardware projects.
+This repository will serve as a base template to facilitate the documentation of Open Hardware projects.
 
-The proposed structure of folders within this layout is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
+The proposed structure of folders within this template is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
 http://www.oshwa.org/sharing-best-practices/
 
 You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding any information or extra files that you consider useful.
@@ -75,7 +75,7 @@ Folders
 
 The folder structure is very important for your project, because it will allow you to organize your projects and will also allow others to easily share changes or improvements. This structure isn't set in stone, however, so you can modify it so it suits your needs.
 
-Remember that inside every folder we strongly recommend you to include a file named 'readme.txt' where you can detail its contents.
+Remember that inside every folder we strongly recommend you to include a file named 'readme.txt' where you can describe its contents.
 
 Within the folder structure we recommend to include at least the following folders:
 
@@ -97,6 +97,6 @@ We recommend you to add a text similar to this in your projects:
 Licensing
 ==============
 
-Add here the license that your project's source code has been subjected to. We would also love it if you add the attribution note for the following layout at the end of this file.
+Add here the license that your project's source code has been subjected to. We would also love it if you add the attribution note for the template at the end of this file.
 
-> This README.md layout has been developed by the openhardware.sv community in order to make project documentation easier. This layout has been protected under a CC BY license. You can modify it and redistribute it as long as you keep this author attribution note.
+> This README.md template has been developed by the openhardware.sv community in order to make project documentation easier. This template has been protected under a CC BY license. You can modify it and redistribute it as long as you keep this author attribution note.
