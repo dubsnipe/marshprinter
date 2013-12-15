@@ -1,6 +1,6 @@
 Usage
 ===========
 
-Put inside this file all details needed for the usage of your project. For example:
+Put inside this file all details needed for utilizing your project. For example:
 
 > Connect to the power source and watch the LED blink!
