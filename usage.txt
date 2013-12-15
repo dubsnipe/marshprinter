@@ -1,6 +1,6 @@
-Utilización
+Usage
 ===========
 
-Coloca en este archivo los detalles para la utilización de tu proyecto. Por ejemplo:
+Put inside this file all details needed for the usage of your project. For example:
 
-> ¡¡Conéctalo a la alimentación y mira la luz parpadear!!
+> Connect to the power source and watch the LED blink!
