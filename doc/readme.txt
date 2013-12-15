@@ -1,16 +1,11 @@
-Carpeta de documentación
+Documentation Folder
 ========================
 
-Esta carpeta contiene todos los archivos de documentación para
-el proyecto <escribe el nombre de tu proyecto>.
+This folder contains all the documentation files for <write the name of your project>.
 
-Si tu documentación está en multiples idiomas crea una carpeta
-utilizando el código ISO 639-1 correspondiente, puedes dejar 
-la documentación en el idioma principal bajo "doc". Puedes revisar
-la lista de los códigos ISO 639-1 en esta dirección
-http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+If your documentation is written in multiple languages, please create a folder utilizing the corresponding ISO 639-1 code. You can leave the documentation on the main language under 'doc'. You can check the list of ISO 639-1 codes on this address: http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
-Archivos:
+Files:
 
-* index.html: Página principal de la documentación en formato HTML.
-* en/index.html: Página principal de la documentación en formato HTML (Idioma inglés).
+* index.html: Main .html site for the documentation.
+* es/index.html: Main .html site for the documentation in Spanish.

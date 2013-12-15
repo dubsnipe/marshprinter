@@ -1,16 +1,13 @@
-Archivos de diseño
+Design Files
 ==================
 
-Coloca una pequeña descripción de los archivos que incluyes como
-parte del diseño. En la carpeta main puedes colocar los archivos
-fuente originales y en "extra" formatos de intercambio como se
-muestra en el siguiente ejemplo.
+Write a small description of the files that you include as part of the design. Inside the 'main' folder you can put all source code files, as well as all data interchange formats, as shown on the following example.
 
-Archivos de diseño principal:
+Main design files:
 
-* main\Test.sch : Archivo fuente del diagráma eléctrico para Eagle.
-* main\Test.brd : Archivo fuente de la tableta impresa para Eagle.
+* main\Test.sch : Source file for the electric diagram for Eagle.
+* main\Test.brd : Source file for the printed tablet for Eagle.
 
-Archivos de diseño auxiliar:
-* main\Test.pdf : PDF para impresión del diagrama eléctrico
+Auxiliary design files:
+* main\Test.pdf : PDF the electric diagram for printing.
 

@@ -1,7 +1,4 @@
-Archivos extra
+Extra Files
 ==============
 
-El contenido de esta carpeta es libre, por tanto es muy importante
-que hagas uso de este archivo para describir sus contenidos. Aquí
-puedes incluir bibliotecas extra necesarias, fotografías, videos
-del funcionamiento, etc, etc.
+The content of this folder is varied, which is why it's important that you use this file to describe its contents. You can include here things such as needed extra libraries, photographies, videos of the fully-working device, etc.

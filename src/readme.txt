@@ -1,10 +1,8 @@
-Código fuente
+Source Code
 =============
 
-Coloca en esta carpeta todos los archivos de código fuente necesarios
-para hacer funcionar tu proyecto. Es recomendable que agregues una
-pequeña descripción como se muestra a continuación:
+Put in this folder all the source code files needed to make your project work. We recommend you to add a small description such as shown on the following example:
 
-Archivos:
+Files:
 
-* Test: Carpeta del proyecto Test para Arduino.
+* Test: Folder for the 'Arduino Test' Project.
