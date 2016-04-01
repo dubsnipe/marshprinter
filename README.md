@@ -1,16 +1,11 @@
 Marshmallow 3D Printer
 =======================================================
 
-This repository haswill have all the necessary files to build a Marshmallow 3D printer, as we think that's pretty awesome.
+This repository will have all the necessary files to build a Marshmallow 3D printer, as we think that's pretty awesome.
 
-Name of Your Project
-=====================
+A marshmallow 3D Printer uses, of course, marshmallow as the base material to create awesome designs.
 
-Write here a short description (two or three paragraphs long) on which you define: What is your project? What is it good for? How do you make it work?
-
-Try not to use technical jargon or complicated words. Remember that people who will read your description might not have the same level of expertise, or they might not be on the same field of knowledge as you.
-
-Explain how you expect your project to work. It is not necessary, however, that you write every little detail of its functioning. If you need to present a more detailed explanation of your project, we recommend you post a link to a website or another .txt file inside of the 'docs' folder.
+Version: 0.00001
 
 To make your documentation more useful, indicate the level of development of your project. Some indicators could be: "stable", "beta", "incomplete" or "barely working".
 
