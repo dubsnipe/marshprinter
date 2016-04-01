@@ -1,15 +1,7 @@
-Open Hardware Project Template
+Marshmallow 3D Printer
 =======================================================
 
-This repository will serve as a base template to facilitate the documentation of Open Hardware projects.
-
-The proposed structure of folders within this template is based on the 'Best Practices for Open-Source Hardware' document published by the Open Source Hardware Association.
-http://www.oshwa.org/sharing-best-practices/
-
-You are free to modify this document as it best suits your needs, by overwriting the text on each paragraph and adding any information or extra files that you consider useful.
-
-You can start by deleting this section, including this line of text.
-
+This repository haswill have all the necessary files to build a Marshmallow 3D printer, as we think that's pretty awesome.
 
 Name of Your Project
 =====================
